@@ -86,4 +86,3 @@ Infrastructure Operations Manager — Windows, Linux, Storage and SAN
 Verge-Ops is an independent project in development. Vendor and product names mentioned in roadmap material are compatibility references only and remain the property of their respective owners.
 
 Copyright © 2026 Mohamed Ramadan. All rights reserved.
-
